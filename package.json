@@ -1,15 +1,15 @@
 {
-               "name": "Dragon-Md",
-               "version": "4.0",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "name": "Chuti-Sudu-MD",
+               "version": "1.0",
+               "description": "Multi device whatsapp bot by Dilla.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name dragon-md",
-                "stop": "pm2 stop dragon-md"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Chuti-Sudu-MD",
+                "stop": "pm2 stop Chuti-Sudu-MD"
                 },
-               "author": "Ameesha",
+               "author": "Dilla",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -93,10 +93,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/TechwithAmee1/Dragon-MD-V4.git"
+                 "url": "git+https://github.com/dilukahettiarachchi/CHUTI_SUDUU-WA-MD-BOT___BY____DILLA-EDITZ.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/TechwithAmee1/Dragon-MD-V4/issues"
+                 "url": "https://github.com/dilukahettiarachchi/CHUTI_SUDUU-WA-MD-BOT___BY____DILLA-EDITZ/issues"
                   },
-                 "homepage": "https://github.com/TechwithAmee1/Dragon-MD-V4#readme"
+                 "homepage": "https://github.com/dilukahettiarachchi/CHUTI_SUDUU-WA-MD-BOT___BY____DILLA-EDITZ#readme"
                   }
